@@ -1,1 +1,1 @@
-# LSTM-based-NSE-Stock-Predictions
+# NSE Stock Predictions using LSTM
